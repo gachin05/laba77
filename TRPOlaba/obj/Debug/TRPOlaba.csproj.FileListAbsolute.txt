@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\bin\Debug\TRPOlaba.exe.config
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\bin\Debug\TRPOlaba.exe
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\bin\Debug\TRPOlaba.pdb
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\obj\Debug\TRPOlaba.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\obj\Debug\TRPOlaba.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\obj\Debug\TRPOlaba.csproj.CopyComplete
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\obj\Debug\TRPOlaba.exe
+C:\Users\user\Desktop\TRPOlaba-master\TRPOlaba\obj\Debug\TRPOlaba.pdb
